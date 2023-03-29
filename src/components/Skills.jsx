@@ -13,7 +13,10 @@ function Skills() {
       if the fraction (width) hasn't been used before it won't recognize it.🤷‍♂️  
       }
     */}
-      {/* <div className="hidden w-5/6 w-3/4 w-1/2 w-1/4"></div> */}
+      <div className="hidden w-5/6"></div>
+      <div className="hidden w-3/4"></div>
+      <div className="hidden w-1/2"></div>
+      <div className="hidden w-1/4"></div>
       <h1
         id="skills"
         className="text-center italic text-3xl p-5 md:p-16 md:text-5xl text-indigo-500 font-bold font-mono underline"
