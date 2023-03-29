@@ -24,7 +24,7 @@ function NavBar() {
         <div className="space-x-3 flex items-center">
           <a
             href="#Contact"
-            className="px-4 py-1 rounded-full bg-transparent text-red-500 dark:text-white tracking-widest border-2 border-red-500 hover:bg-red-500 hover:text-white sm:py-2 sm:px-7 "
+            className="px-4 py-1 rounded-full bg-transparent text-red-500 dark:text-white tracking-widest border-2 border-red-400 hover:bg-red-400 hover:text-white sm:py-2 sm:px-7 "
           >
             Hire Me
           </a>
