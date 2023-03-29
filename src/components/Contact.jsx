@@ -8,21 +8,21 @@ function Contact() {
         <div className="flex flex-col md:flex-row gap-2 w-full">
           <div className="relative md:w-2/5 flex-grow">
             <input
-              className="border border-indigo-500 w-full p-3 text-gray-700"
+              className="border border-indigo-500 w-full p-3 text-gray-700  dark:text-white"
               type="text"
               placeholder="enter your name"
             />
-            <label className="absolute left-0 p-2 -top-10 text-gray-700 font-semibold">
+            <label className="absolute left-0 p-2 -top-10 text-gray-700  dark:text-white font-semibold">
               Your Name{" "}
             </label>
           </div>
           <div className="relative md:w-1/2 flex-grow mt-10 md:mt-0">
             <input
-              className="border border-indigo-500 w-full p-3 text-gray-700"
+              className="border border-indigo-500 w-full p-3 text-gray-700  dark:text-white"
               type="email"
               placeholder="enter your email address"
             />
-            <label className="absolute left-0 p-2 -top-10 text-gray-700 font-semibold">
+            <label className="absolute left-0 p-2 -top-10 text-gray-700  dark:text-white font-semibold">
               Email{" "}
             </label>
           </div>
@@ -30,11 +30,11 @@ function Contact() {
         <div className="relative">
           <textarea
             rows={5}
-            className="border border-indigo-500 w-full p-2 text-gray-700"
+            className="border border-indigo-500 w-full p-2 text-gray-700  dark:text-white"
             type="email"
             placeholder="write message here"
           />
-          <label className="absolute left-0 p-2 -top-10 text-gray-700 font-semibold">
+          <label className="absolute left-0 p-2 -top-10 text-gray-700  dark:text-white font-semibold">
             Your Message{" "}
           </label>
         </div>
