@@ -22,7 +22,7 @@ function Skills() {
       >
         &emsp;My Skills&emsp;
       </h1>
-      <div className="flex gap-4 items-center max-w-5xl m-auto p-2 md:p-8 dark:bg-gray-800 dark:text-white">
+      <div className="flex gap-4 items-center max-w-5xl m-auto p-2 md:p-8">
         <img className="hidden md:block max-h-80" src={SkillsImage} alt="" />
         <div className="w-full space-y-4 md:space-y-0">
           <SkillLevel

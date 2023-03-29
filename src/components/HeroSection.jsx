@@ -5,7 +5,7 @@ function HeroSection() {
   return (
     <div className="relative aspect-video w-full md:aspect-auto md:pb-16">
       {/* background */}
-      <div className="absolute w-full h-full bg-gradient-to-r from-red-300 to-indigo-300 blur-sm -z-10"></div>
+      <div className="absolute w-full h-full bg-gradient-to-br from-red-300 to-indigo-300 dark:from-indigo-800 dark:to-red-800 blur-sm -z-10"></div>
       <div className="z-10 max-w-6xl m-auto p-5 sm:pl-16 space-y-2 sm:pt-16 md:space-y-8 md:p-24 lg:pt-[15%] text-white">
         <p className="text-xl flex items-center gap-2 sm:text-3xl lg:text-5xl">
           Selam <MdWavingHand className="text-yellow-400" />
