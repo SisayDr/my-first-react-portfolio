@@ -18,11 +18,11 @@ function Projects() {
         />
         <ProjectCard
           image={weddingInvitaiton}
-          title="A Wedding Invitaion Website for Betty & Fasi"
+          title="A wedding invitaion Website for Betty & Fasi"
         />
         <ProjectCard
           image={productListPage}
-          title="Product Listing page for a Dutch company"
+          title="Product listing page for a Dutch company"
         />
       </div>
     </>

@@ -14,7 +14,7 @@ function HeroSection() {
           I'm Sisay <span className="text-red-500"> Driba</span>
         </h1>
         <p className="w-3/4 italic sm:text-lg lg:text-2xl">
-          A passinate web developer with years of experience.
+          A passionate web developer with years of experience.
         </p>
         <br />
         <a
